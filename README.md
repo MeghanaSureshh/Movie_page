@@ -71,7 +71,7 @@ moviehub/
 
 Admin Credentials:_
 
-Email: meghana@moviehub.com
+Email: meghana@gmail.com
 Password: 12345  
 
 For User:-
